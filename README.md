@@ -1,1 +1,2 @@
-# laravel8-docker
+# How to RUN
+docker-compose up --build -d
